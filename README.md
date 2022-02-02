@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannielnotfound
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML, CSS, JS (advanced, near to study React), PHP (after i'll have focus on Node.js) and MySQL
+- 🌱 I’m currently learning HTML, CSS, JS (React, Node) and Databases
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me: danielriber548@gmail.com
 
