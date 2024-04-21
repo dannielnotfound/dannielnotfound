@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @dannielnotfound
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML, CSS, JS (Vanilla, React, Node) and Databases
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me: danielriber548@gmail.com
-- 🧑‍🎓 I'm actually studying Technology for Internet in Etec, Centro Paula Souza (SP).
+👋 Bem-vindo ao meu GitHub!
 
-<!---
-dannielnotfound/dannielnotfound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Sobre mim
+Sou um desenvolvedor full stack apaixonado por aprender e criar soluções inovadoras. Estou em constante evolução, buscando aprimorar minhas habilidades e explorar novas tecnologias.
+
+### Experiência
+- 💻 Tenho experiência em desenvolvimento com Laravel/PHP, trabalhando em projetos desafiadores e colaborativos.
+- 📚 Atualmente, estou me aprofundando no estudo do Vue.js, buscando dominar suas capacidades para criar interfaces dinâmicas e modernas.
+- 🛠️ Além disso, possuo conhecimento em Protheus e ADVPL, o que me permite contribuir em projetos de integração ERP e desenvolvimento de soluções empresariais.
+
+### O que você encontrará aqui
+Neste espaço, compartilho meus projetos e aprendizados. Desde pequenos scripts e protótipos até projetos web em desenvolvimento, estou sempre explorando novas ideias e expandindo meu conhecimento.
+
+### Vamos conectar!
+Estou sempre aberto a colaborações, feedback e novas oportunidades de aprendizado. Se você tem interesse em trabalhar em conjunto ou apenas trocar experiências, não hesite em entrar em contato!
+
+Vamos construir algo incrível juntos! 🚀
